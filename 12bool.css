@@ -67,3 +67,11 @@ border: 1px solid black;
 .col-12 {
     width: calc((100% / 12) *12);
 }
+
+.col-3-red {
+    background-color: red;
+}
+
+.red {
+    background-color: red;
+}
