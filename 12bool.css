@@ -68,10 +68,10 @@ border: 1px solid black;
     width: calc((100% / 12) *12);
 }
 
-.col-3-red {
-    background-color: red;
+.col-1-pink {
+    background-color: pink;
 }
 
-.red {
-    background-color: red;
+.pink {
+    background-color: pink;
 }
